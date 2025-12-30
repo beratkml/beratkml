@@ -6,6 +6,8 @@
 - 📫 How to reach me **berat.kamali@outlook.com**
 
 - 📄 Personal website [https://beratk.com/](https://beratk.com/)
+  
+- 💻 [Leetcode profile](https://leetcode.com/u/beratk_/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
